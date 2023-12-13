@@ -3,4 +3,6 @@ NEW PLAN Portofolio
 - make portfolio
   * landing page website 
   * project web ecommerce
+    ^ amazon
   * project to do list
+  * project website travel
