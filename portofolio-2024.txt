@@ -1,8 +1,6 @@
-NEW PLAN
+NEW PLAN Portofolio
 
 - make portfolio
   * landing page website 
-  * projext web ecommerce
-- make cv ats friendly
-- update linkedin
-- applying 30 job/day
+  * project web ecommerce
+  * project to do list
